@@ -1,6 +1,6 @@
 # It starts with Clojure: a practical guide to Clojure
 
-This a guide (something between a tiny book and a course) how to get started with Clojure.
+This a guide (something between a tiny book and a course) on how to get started with Clojure.
 The actual reading materials are under **./materials/** where they are grouped by sections.
 Materials are in Markdown so you can easily read the directly from GitHub,
 or you can fork the repo to your own computer and make notes while reading.
